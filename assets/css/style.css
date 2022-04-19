@@ -3,7 +3,6 @@ body{
 }
 .nav-position-top{
     position: absolute;
-    
     top: 5%;
 }
 .img-logo{
@@ -14,11 +13,9 @@ body{
     background-size: 2000px;
 
     background-position: center;
-
     background-repeat:repeat-x;
 
     height:950px;
-
     display:block;
 }
 .bg-cielo{
