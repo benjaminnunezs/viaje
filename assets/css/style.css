@@ -1,0 +1,25 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.nav-position-top{
+    position: absolute;
+    
+    top: 5%;
+}
+.img-logo{
+    height: 40px;
+}
+.fondo-nav{
+    background-image: url("../img/carousel1.jpg");
+    background-size: 2000px;
+
+    background-position: center;
+
+    background-repeat:repeat-x;
+
+    height:950px;
+
+    display:block;
+}
+.bg-cielo{
+    background-color: #3babb6;}
